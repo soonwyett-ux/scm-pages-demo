@@ -1,6 +1,6 @@
 "use strict";
 
-let clicks = 0;
+let clicks = 0
 
 function updateCount() {
   document.getElementById("count").textContent = String(clicks);
